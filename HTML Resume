@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title> Peter Qualey Resume </title>
+        <link rel = "stylesheet" href= "style.css"/>
+    </head>
+    <body>
+        <h1> Peter Qualey </h1>
+        <p> 
+            31 Meadowlark Lane N. <br>
+            Fargo, ND 58102 <br>
+            (701) 261-4344 <br>
+            peterjqualey@gmail.com
+        </p>
+<h2>
+    Education
+</h2>
+<p><b> Fargo North High</b><br>
+<sub> August 2016 - May 2020 </sub><br>
+Highschool Diploma<br>
+GPA - 3.6 / 4.0 <br>
+<b> Minnesota State University Moorhead </b><br>
+<sub> August 2020 - December 2022 </sub><br>
+Studied English Education for three semesters.
+</p>
+<h3> Skills </h3>
+<p>
+   <ul>
+       <li>Team-Based Worker</li>
+       <li> Thrives Under Pressure</li>
+       <li>Versed in HTML snd JavaScript</li>
+       <li>Improvisation</li>
+       <li> TIme Mangaement</li>
+   </ul>
+</p>
+    </body>
+</html>
